@@ -1,0 +1,19 @@
+@import url("primeflex/primeflex.css");
+@import url("primevue/resources/themes/aura-light-blue/theme.css");
+/* @import url("primevue/resources/themes/lara-light-blue/theme.css"); */
+/* @import url("primevue/resources/themes/md-light-deeppurple/theme.css"); */
+@import url("primeicons/primeicons.css");
+
+@font-face {
+  font-family: 'Shentox';
+  src: url(../fonts/Shentox.ttf);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Shentox';
+}
+
+body {
+  margin: 0;
+}
